@@ -1,0 +1,28 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #eef2f3;
+  }
+  
+  .dashboard-menu {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .dashboard-menu button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+  }
+  
+  .dashboard-menu button:hover {
+    background-color: #0056b3;
+  }
+  

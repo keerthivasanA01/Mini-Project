@@ -1,0 +1,17 @@
+.login-container {
+    text-align: center;
+  }
+  
+  .login-container h2 {
+    color: #333;
+  }
+  
+  .login-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-container button {
+    margin-top: 10px;
+  }
+  

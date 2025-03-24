@@ -1,0 +1,19 @@
+.prediction-container {
+    text-align: center;
+  }
+  
+  .upload-box {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  .upload-box:hover {
+    border-color: #007bff;
+  }
+  
+  .upload-btn {
+    margin-top: 10px;
+  }
+  
